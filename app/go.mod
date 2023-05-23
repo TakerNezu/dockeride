@@ -1,4 +1,4 @@
-module dockeride
+module changeme
 
 go 1.18
 
